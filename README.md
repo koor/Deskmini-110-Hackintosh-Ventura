@@ -20,9 +20,10 @@ Hackintosh EFI files for Deskmini 110
 - ✅ WiFi (2.4G & 5G) / Ethernet
 - ✅ Bluetooth
 - ✅ USB 2.0 & 3.0
+- ✅ AirDrop
+- ✅ Sleep / Wake
 
 ## Not Working
 
-- Sleep / Wake
 - VGA port output
 
