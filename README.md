@@ -25,5 +25,7 @@ Hackintosh EFI files for Deskmini 110
 
 ## Not Working
 
-- VGA port output
+- ❌ VGA port output
+- ❌ Unlock with Apple Watch
+- ❌ Sidecar / Universal Control
 
